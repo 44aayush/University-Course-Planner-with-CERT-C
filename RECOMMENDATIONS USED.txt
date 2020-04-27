@@ -13,7 +13,6 @@ STR01-A = Use managed strings for development of new string manipulation code
 ARR31-C = Use consistent array notation across all source files
 STR05-A = Prefer making string literals const-qualified
 INT00-A = Understand the data model used by your implementation
-INT09-A = Ensure enumeration constants map to unique values
 TMP30-C = Temporary files must created with unique and unpredictable file names
 ENV04-A = Do not call system() if you do not need a command interpreter
 MSC00-A = Compile cleanly at high warning levels
