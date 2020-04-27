@@ -9,7 +9,6 @@ FIO46-C = Do not access closed file
 FIO37-C = Do not assume that fgets() or fgetws() returns a nonempty string when successful
 STR31-C = Guarantee that storage for strings has sufficient space for character data and the null terminator
 STR00-A = Use TR 24731 for remediation of existing string manipulation code
-STR01-A = Use managed strings for development of new string manipulation code
 ARR31-C = Use consistent array notation across all source files
 STR05-A = Prefer making string literals const-qualified
 INT00-A = Understand the data model used by your implementation
